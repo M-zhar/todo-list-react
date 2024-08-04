@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Eggs",
+      "completed": false,
+      "timestamp": "2024-08-05T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Finish assignment",
+      "description": "Complete math homework",
+      "completed": false,
+      "timestamp": "2024-08-05T12:00:00Z"
+    }
+  ]
+  
